@@ -1,0 +1,14 @@
+@import "flowbite/dist/flowbite.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(192, 189, 189);
+}
+
+.rounded-t-lg {
+  height: 230px;
+}
